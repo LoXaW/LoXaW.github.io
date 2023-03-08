@@ -40,7 +40,7 @@ $(document).ready(() => {
       link: 'loxaw.github.io/Token-Cheker/',
     },
     {
-      name: 'Webhock Sender',
+      name: 'Webhook Sender',
       link: 'loxaw.github.io/WebhockSender/',
     },
     {
